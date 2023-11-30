@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+h1{
+    background-color: rgb(59, 179, 59);
+}
+.seccion{
+    background-color: lightgreen;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+img{
+    height:fit-content;
+    width: 300px;
+}
+
+.eren{
+    text-align: center;
+    margin: 5px;
+}
+
+body{
+    background-color: rgb(202, 247, 232);
+}
+
+.nino{
+    border: 5px solid rgb(16, 138, 42);
+    border-radius: 10%;
+}
+
+.adolescente{
+    border: 5px solid rgb(16, 138, 42);
+    border-radius: 25%;
+}
+
+.adulto{
+    border: 5px solid rgb(16, 138, 42);
+    border-radius: 50%;
+}
